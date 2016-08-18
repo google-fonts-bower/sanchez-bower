@@ -1,0 +1,17 @@
+{
+    "name": "sanchez-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Daniel Hernandez"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sanchez-bower.git"
+    },
+    "description": "Sanchez font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
